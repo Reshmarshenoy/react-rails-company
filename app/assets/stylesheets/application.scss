@@ -1,0 +1,123 @@
+@import "react-datepicker.css";
+@import "fixed-data-table.css";
+@import "fixed-data-table-base.css";
+@import "fixed-data-table-style.css";
+.content{
+   
+    margin-left: 50px;
+}
+
+.companyStyle{
+    width: 300px;
+    height: 80px;
+    float: left;
+    margin-left: 12px;
+    padding-top: 1px;
+    padding-left: 10px;
+    color: #fff;
+    cursor: pointer;
+     margin-top: 10px;
+}
+
+.companyDetailsStyle{
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+    border-top: 10px;
+    font-size: 25px;
+    width: 100%;
+    height: 450px;
+    bottom: 0;
+}
+.navigation .navbar{
+  border-color: blue;
+  margin-bottom: 0;
+  background-color: blue;
+}
+ 
+ .sidebar  ul li {
+      list-style: none;
+      padding: 12px;
+      background-color: #122143;     
+     
+      margin-left: 0px !important;
+    
+      border-bottom: 1px solid grey;
+      
+  } 
+ 
+  button{
+        margin: 2px;            
+    }
+  
+
+  .date-picker{
+      margin-bottom: 10px;
+  }
+
+  
+
+
+  .letter{ a  {
+  color: dodgerblue ;
+  }
+  }
+
+  .form-data{
+      padding: 20px;
+      color: grey;
+      
+  }
+  .form-input{
+      input {
+          border-radius: 5px;
+      }
+  }
+  .form-text{
+      textarea {
+          border-radius: 5px;
+      }
+  }
+  .form-container{
+      padding: 10px;
+  }
+  .company-content{
+      margin-right: 20px;
+  }
+  .app {
+  display: flex;
+}
+
+aside.primary-aside {
+  width: 200px;
+}
+
+main {
+  flex: 1;
+}
+.primary-aside ul li {
+      list-style: none;
+      padding: 12px;
+      background-color: #122143;     
+     
+      margin-left: 0px !important;
+    
+      border-bottom: 1px solid grey;
+      
+  } 
+
+  .results{
+      padding: 20px;
+  }
+  .home-content{
+      padding: 20px;
+  }
+
+  .items{
+      h4{
+          color: steelblue;
+      }
+      article{
+          color: limegreen;
+      }
+  }
